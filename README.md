@@ -13,9 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer with **1.5+ years of expertise** building and optimizing high-performance web applications. I specialize in the **PERN/MERN stack** and love crafting robust, user-centric products — from AI-powered platforms to HIPAA-compliant healthcare portals.
+Full Stack Developer with **1.7+ years of expertise** building and optimizing high-performance web applications. I specialize in the **PERN/MERN stack** and love crafting robust, user-centric products — from AI-powered platforms to HIPAA-compliant healthcare portals.
 
-- 🚀 Currently working at **SevenStacks** as an Associate Software Engineer
 - 🤖 Passionate about integrating **AI/OpenAI** into real-world applications
 - ☁️ Experienced in **AWS EC2/S3** deployments and production server management
 - 💳 Built end-to-end **Stripe** payment flows with webhooks and credits systems
